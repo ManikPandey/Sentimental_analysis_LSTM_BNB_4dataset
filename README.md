@@ -1,6 +1,4 @@
-# Writing the README content to a file named "README.md"
 
-readme_content = """
 # Sentiment Analysis Project  
 
 This repository contains a sentiment analysis project built using machine learning and deep learning techniques. The project utilizes **LSTM**, **Logistic Regression**, and **Bernoulli Naive Bayes** algorithms on four diverse datasets for sentiment classification. Pre-trained **GloVe word embeddings** are used for feature extraction to enhance the quality of text representation.
@@ -59,4 +57,5 @@ This project focuses on analyzing sentiments from text data across multiple doma
 ├── modelLRBNB.ipynb                # Notebook for Logistic Regression and Naive Bayes training
 ├── model_predictions.ipynb         # Notebook for predictions and testing
 ├── glove.6B.50d-300d.txt           # Pre-trained word embeddings
+
 

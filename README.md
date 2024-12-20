@@ -43,6 +43,14 @@ This project focuses on analyzing sentiments from text data across multiple doma
 
 ---
 
+## Setup Instructions 
+   1. clone repository:
+      - git clone https://github.com/ManikPandey/Sentimental_analysis_LSTM_BNB_4dataset.git
+   2. Download the required datasets from the provided links and place them in the respective folders.
+   3. Install the necessary Python dependencies:
+      -  pip install -r requirements.txt
+   4. Run the notebooks for training and testing:
+
 ## Project Structure  
 
 ```plaintext
@@ -57,5 +65,3 @@ This project focuses on analyzing sentiments from text data across multiple doma
 ├── modelLRBNB.ipynb                # Notebook for Logistic Regression and Naive Bayes training
 ├── model_predictions.ipynb         # Notebook for predictions and testing
 ├── glove.6B.50d-300d.txt           # Pre-trained word embeddings
-
-

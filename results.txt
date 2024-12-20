@@ -1,21 +1,25 @@
 
-Dataset	Logistic Regression	Bernoulli Naive Bayes	LSTM
-Twitter (1.6 million tweets)	Accuracy: 0.77, ROC-AUC: 0.8539	Accuracy: 0.77, ROC-AUC: 0.84	Accuracy: 0.78, Macro avg F1-score: 0.78
-Hotel Review (130,000 reviews)	Accuracy: 0.87, ROC-AUC: 0.9379	Accuracy: 0.77, ROC-AUC: 0.86	Accuracy: 0.84, Macro avg F1-score: 0.83
-Movie Review (10,000 reviews)	Accuracy: 0.90, ROC-AUC: 0.9602	Accuracy: 0.85, ROC-AUC: 0.92	Accuracy: 0.81, Macro avg F1-score: 0.81
-Amazon (3.6 million reviews)	Accuracy: 0.87, ROC-AUC: 0.9392	Accuracy: 0.82, ROC-AUC: 0.90	Accuracy: 0.87, Macro avg F1-score: 0.87
+Dataset	                        Logistic Regression	              Bernoulli Naive Bayes	                LSTM
+Twitter (1.6 million tweets)	  Accuracy: 0.77, ROC-AUC: 0.8539	  Accuracy: 0.77, ROC-AUC: 0.84	        Accuracy: 0.78, Macro avg F1-score: 0.78
+Hotel Review (130,000 reviews)	Accuracy: 0.87, ROC-AUC: 0.9379	  Accuracy: 0.77, ROC-AUC: 0.86	        Accuracy: 0.84, Macro avg F1-score: 0.83
+Movie Review (10,000 reviews)	  Accuracy: 0.90, ROC-AUC: 0.9602	  Accuracy: 0.85, ROC-AUC: 0.92	        Accuracy: 0.81, Macro avg F1-score: 0.81
+Amazon (3.6 million reviews)	  Accuracy: 0.87, ROC-AUC: 0.9392	  Accuracy: 0.82, ROC-AUC: 0.90	        Accuracy: 0.87, Macro avg F1-score: 0.87
 
 
-Dataset	Algorithm	Precision	Recall	F1-Score	Accuracy	ROC-AUC
-Twitter (1.6M Tweets)	Logistic Regression	0.77	0.77	0.77	0.77	0.8539
-Bernoulli Naive Bayes	0.77	0.77	0.77	0.77	0.84
-LSTM	0.78	0.78	0.78	0.78	-
-Hotel Reviews	Logistic Regression	0.86	0.86	0.86	0.87	0.9379
-Bernoulli Naive Bayes	0.77	0.75	0.75	0.77	0.86
-LSTM	0.83	0.83	0.83	0.84	-
-Movie Reviews	Logistic Regression	0.90	0.90	0.89	0.90	0.9602
-Bernoulli Naive Bayes	0.86	0.85	0.85	0.85	0.92
-LSTM	0.81	0.81	0.81	0.81	-
-Amazon Reviews (3.6M)	Logistic Regression	0.87	0.87	0.87	0.87	0.9392
-Bernoulli Naive Bayes	0.82	0.82	0.82	0.82	0.90
-LSTM	0.87	0.87	0.87	0.87	-
+Dataset	              Algorithm	            Precision	Recall	F1-Score	Accuracy	ROC-AUC
+Twitter (1.6M Tweets)
+                      Logistic Regression	  0.77	    0.77	   0.77	    0.77	    0.8539
+                      Bernoulli Naive Bayes	0.77	    0.77	   0.77	    0.77	    0.84
+                      LSTM	                0.78	    0.78	   0.78	    0.78	    -
+Hotel Reviews	Logistic
+                      Regression	          0.86	    0.86	   0.86	    0.87	    0.9379
+                      Bernoulli Naive Bayes	0.77	    0.75	   0.75	    0.77	    0.86
+                      LSTM	                0.83	    0.83	   0.83	    0.84	    -
+Movie Reviews	Logistic 
+                      Regression	          0.90	    0.90	   0.89	    0.90    	0.9602
+                      Bernoulli Naive Bayes	0.86	    0.85	   0.85	    0.85	    0.92
+                      LSTM	                0.81	    0.81	   0.81	    0.81	    -
+Amazon Reviews (3.6M)	
+                      Logistic Regression	  0.87	    0.87	   0.87	    0.87	    0.9392
+                      Bernoulli Naive Bayes	0.82	    0.82	   0.82	    0.82	    0.90
+                                            LSTM	    0.87	   0.87	    0.87	    0.87	-

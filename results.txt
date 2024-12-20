@@ -16,7 +16,7 @@ Hotel Reviews	Logistic
                       Bernoulli Naive Bayes	0.77	    0.75	   0.75	    0.77	    0.86
                       LSTM	                0.83	    0.83	   0.83	    0.84	    -
 Movie Reviews	Logistic 
-                      Regression	          0.90	    0.90	   0.89	    0.90    	  0.9602
+                      Regression	          0.90	    0.90	   0.89	    0.90    	   0.9602
                       Bernoulli Naive Bayes	0.86	    0.85	   0.85	    0.85	    0.92
                       LSTM	                0.81	    0.81	   0.81	    0.81	    -
 Amazon Reviews (3.6M)	
